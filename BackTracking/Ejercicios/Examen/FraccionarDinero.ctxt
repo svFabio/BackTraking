@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FraccionarDinero
+comment0.text=Fraccionar\ billetes\r\n\ \ \ \ \ Tenemos\ los\ Cortes\:\ 20,10,7,5,3,2,1\r\n\ \ \ \ \ no\ se\ puede\ fraccionar\ asi\:\r\n\ \ \ \ \ fracionar\ 10\:\ 5,5\ ERROR\r\nsolo\ una\ vez\ usar\ cada\ corte
+comment1.params=lista\ money
+comment1.target=java.util.ArrayList\ fraccionar(int[],\ int)
+comment1.text=\ help\ es\ una\ posibilidad\ del\ fraccionar\ un\ billete\r\nans\ es\ la\ respuesta\ de\ TODOS\ los\ helps
+comment2.params=lista\ pos\ sumaAct\ money\ ans\ help
+comment2.target=void\ fraccionar(int[],\ int,\ int,\ int,\ java.util.ArrayList,\ java.util.ArrayList)
+numComments=3

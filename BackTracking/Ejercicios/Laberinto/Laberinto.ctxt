@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Laberinto
+comment1.params=x\ y
+comment1.target=boolean\ valida(int,\ int)
+comment2.params=
+comment2.target=boolean\ buscar()
+comment3.params=x\ y
+comment3.target=boolean\ buscar(int,\ int)
+numComments=4
